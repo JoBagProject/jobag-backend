@@ -80,6 +80,7 @@ if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
     app.UseSwaggerUI();
+    
 }
 
 EmailTemplates.Initialize(app.Environment);
