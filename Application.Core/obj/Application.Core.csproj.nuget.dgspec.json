@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Core\\Application.Core.csproj": {}
+    "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Core\\Application.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Core\\Application.Core.csproj": {
+    "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Core\\Application.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Core\\Application.Core.csproj",
+        "projectUniqueName": "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Core\\Application.Core.csproj",
         "projectName": "Application.Core",
-        "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Core\\Application.Core.csproj",
-        "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Core\\obj\\",
+        "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Core\\Application.Core.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,11 +33,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Security\\Application.Security.csproj": {
-                "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Security\\Application.Security.csproj"
+              "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Security\\Application.Security.csproj": {
+                "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Security\\Application.Security.csproj"
               },
-              "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.MainModule\\Domain.MainModule.csproj": {
-                "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.MainModule\\Domain.MainModule.csproj"
+              "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.MainModule\\Domain.MainModule.csproj": {
+                "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.MainModule\\Domain.MainModule.csproj"
               }
             }
           }
@@ -81,24 +81,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Security\\Application.Security.csproj": {
+    "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Security\\Application.Security.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Security\\Application.Security.csproj",
+        "projectUniqueName": "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Security\\Application.Security.csproj",
         "projectName": "Application.Security",
-        "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Security\\Application.Security.csproj",
-        "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Application.Security\\obj\\",
+        "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Security\\Application.Security.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Application.Security\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -114,8 +114,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj"
+              "C:\\2022-02\\Trabajo\\jobag-backend\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
+                "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj"
               }
             }
           }
@@ -155,24 +155,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.Core\\Domain.Core.csproj": {
+    "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.Core\\Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.Core\\Domain.Core.csproj",
+        "projectUniqueName": "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.Core\\Domain.Core.csproj",
         "projectName": "Domain.Core",
-        "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.Core\\Domain.Core.csproj",
-        "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.Core\\obj\\",
+        "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.Core\\Domain.Core.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -188,8 +188,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj"
+              "C:\\2022-02\\Trabajo\\jobag-backend\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
+                "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj"
               }
             }
           }
@@ -229,24 +229,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.MainModule\\Domain.MainModule.csproj": {
+    "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.MainModule\\Domain.MainModule.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.MainModule\\Domain.MainModule.csproj",
+        "projectUniqueName": "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.MainModule\\Domain.MainModule.csproj",
         "projectName": "Domain.MainModule",
-        "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.MainModule\\Domain.MainModule.csproj",
-        "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.MainModule\\obj\\",
+        "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.MainModule\\Domain.MainModule.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.MainModule\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -262,8 +262,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.Core\\Domain.Core.csproj": {
-                "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Domain.Core\\Domain.Core.csproj"
+              "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.Core\\Domain.Core.csproj": {
+                "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Domain.Core\\Domain.Core.csproj"
               }
             }
           }
@@ -309,24 +309,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
+    "C:\\2022-02\\Trabajo\\jobag-backend\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+        "projectUniqueName": "C:\\2022-02\\Trabajo\\jobag-backend\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
         "projectName": "Infrastructure.CrossCutting",
-        "projectPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
-        "packagesPath": "C:\\Users\\ADM\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ADM\\Desktop\\apijobagnetantesde\\JobagAPINet\\Infrastructure.CrossCutting\\obj\\",
+        "projectPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Infrastructure.CrossCutting\\Infrastructure.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+        "outputPath": "C:\\2022-02\\Trabajo\\jobag-backend\\Infrastructure.CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ADM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -391,7 +391,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
